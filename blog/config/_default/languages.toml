@@ -1,0 +1,5 @@
+[es]
+title = "Mi blog"
+weight = 1
+LanguageName = "ES"
+contentDir = "content/spanish"
